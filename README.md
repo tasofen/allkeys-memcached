@@ -1,6 +1,6 @@
 # Fix getAllKeys for php-memcached (read from socket)
 
-## Install
+## Install via composer
 ```bash
 composer require tasofen\allkeys-memcached
 ```
