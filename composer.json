@@ -1,12 +1,15 @@
 {
     "name": "tasofen/allkeys-memcached",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tikhonov Alexander",
             "email": "123546.90@mail.ru"
         }
     ],
-    "require": {},
+    "require": {
+        "tasofen/allkeys-memcached": "^1.0"
+    },
     "autoload": {
     	"psr-4": {
     		"tasofen\\": "src/"
