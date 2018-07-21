@@ -7,6 +7,7 @@ composer require tasofen\allkeys-memcached
 
 ## Use
 ```php
+require 'vendor/autoload.php';
 $m = new tasofen\FixMemcached();
 $m->addServer('127.0.0.1', 11211);
 $m->set('key-1', 'value-1');
