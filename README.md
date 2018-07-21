@@ -14,5 +14,3 @@ $m->set('key-1', 'value-1');
 $m->set('key-2', 'value-2');
 print_r($m->getAllKeys());
 ```
-
-
