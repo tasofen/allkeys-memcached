@@ -1,0 +1,15 @@
+{
+    "name": "tasofen/allkeys-memcached",
+    "authors": [
+        {
+            "name": "Tikhonov Alexander",
+            "email": "123546.90@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"tasofen\\": "src/"
+    	}
+    }
+}
