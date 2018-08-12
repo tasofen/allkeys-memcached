@@ -3,7 +3,7 @@
 
 ## Install via [composer](https://getcomposer.org/)
 ```bash
-composer require tasofen\allkeys-memcached
+composer require tasofen/allkeys-memcached
 ```
 
 ## Use
