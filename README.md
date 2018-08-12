@@ -1,5 +1,5 @@
 # Fix getAllKeys for php-memcached (read from socket)
-[![Total Downloads](https://img.shields.io/packagist/dt/tasofen/allkeys-memcached.svg)](https://packagist.org/packages/tasofen/allkeys-memcached)
+[![Total Downloads](https://img.shields.io/packagist/dt/tasofen/allkeys-memcached.svg?colorB=brightgreen)](https://packagist.org/packages/tasofen/allkeys-memcached)
 
 ## Install via [composer](https://getcomposer.org/)
 ```bash
